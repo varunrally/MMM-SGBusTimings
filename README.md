@@ -1,6 +1,9 @@
 # MMM-SGBusTimings
 MagicMirror Module to show Bus arrival timings at a Bus Stop in Singapore
 
+## Screenshot
+[SG Buses Screenshot](SGBuses_screenshot.JPG)
+
 ## Installation
 ```
 cd ~/MagicMirror/modules
