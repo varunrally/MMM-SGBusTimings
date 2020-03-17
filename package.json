@@ -1,0 +1,22 @@
+{
+  "name": "MMM-SGBusTimings",
+  "version": "1.0",
+  "description": "MagicMirror Module to show Bus arrival timings at a Bus Stop in Singapore",
+  "main": "MMM-SGBusTimings.js",
+  "repository": "https://github.com/varunrally/MMM-SGBusTimings",
+  "keywords": [
+    "magic mirror",
+    "module",
+    "bus timings",
+    "singapore",
+    "datamall API"
+  ],
+  "author": "varunrally",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varunrally/MMM-SGBusTimings/issues"
+  },
+  "dependencies": {
+    "dataMall API": "^1.1.1"
+  }
+}
