@@ -32,5 +32,5 @@ https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html
 * Replace **YOUR_DATAMALL_KEY** with your DataMall API key you received.
 * Replace **busStopCode** with the Bus Stop Code you are interested in. Each bus stop code is mentioned on signboards at Bus Stops in Singapore.
 * Replace **busServiceNos** with the bus service numbers you are interested to see timings for.
-* Add configuration for your module in *config.js* of Magic Mirror
+* Add configuration for your module in **config.js** file of Magic Mirror
 
